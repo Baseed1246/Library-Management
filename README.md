@@ -1,4 +1,4 @@
-Name: SHAIK BASEED 
+ Name: SHAIK BASEED 
 
 Company: CODETECH IT SOLUTIONS 
 
@@ -37,7 +37,7 @@ Key activities:
 
 •Store details like name, Book title , description, price, and Copies.
 
-• Add, edit, and delete Books names from the system.
+• Add, edit,ISBN and delete Books names from the system.
 
 •Monitor Books levels and identify low stock Book items.
 
